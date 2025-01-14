@@ -97,22 +97,34 @@
     <div class="container">
         <section id="products">
             <div class="product">
-                <img src="https://via.placeholder.com/600x400" alt="Product 1">
-                <h2>Smart Fitness Tracker</h2>
-                <p>Track your fitness goals with precision and style. Lightweight and easy to use!</p>
+                <img src="https://via.placeholder.com/600x400" alt="Apple AirPods Pro 2">
+                <h2>Apple AirPods Pro 2</h2>
+                <p>Experience superior sound quality and active noise cancellation with these top-rated wireless earbuds.</p>
                 <a href="https://www.amazon.com/dp/B00EXAMPLE1" target="_blank">Buy on Amazon</a>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/600x400" alt="Product 2">
-                <h2>Reusable Water Bottle</h2>
-                <p>Stay hydrated sustainably with this eco-friendly and stylish water bottle.</p>
+                <img src="https://via.placeholder.com/600x400" alt="Instant Pot Duo 7-in-1">
+                <h2>Instant Pot Duo 7-in-1</h2>
+                <p>A versatile kitchen appliance that functions as a pressure cooker, slow cooker, and more!</p>
                 <a href="https://www.amazon.com/dp/B00EXAMPLE2" target="_blank">Buy on Amazon</a>
             </div>
             <div class="product">
-                <img src="https://via.placeholder.com/600x400" alt="Product 3">
-                <h2>Home Security Camera</h2>
-                <p>Ensure your safety with this top-rated home security camera, featuring night vision.</p>
+                <img src="https://via.placeholder.com/600x400" alt="Fitbit Charge 5">
+                <h2>Fitbit Charge 5</h2>
+                <p>Stay on top of your fitness goals with this advanced fitness tracker.</p>
                 <a href="https://www.amazon.com/dp/B00EXAMPLE3" target="_blank">Buy on Amazon</a>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/600x400" alt="Etekcity Food Kitchen Scale">
+                <h2>Etekcity Food Kitchen Scale</h2>
+                <p>Measure ingredients accurately with this high-precision kitchen scale.</p>
+                <a href="https://www.amazon.com/dp/B00EXAMPLE4" target="_blank">Buy on Amazon</a>
+            </div>
+            <div class="product">
+                <img src="https://via.placeholder.com/600x400" alt="Bedsure Fleece Stripe Throw Blanket">
+                <h2>Bedsure Fleece Stripe Throw Blanket</h2>
+                <p>Stay cozy with this luxurious and soft fleece blanket.</p>
+                <a href="https://www.amazon.com/dp/B00EXAMPLE5" target="_blank">Buy on Amazon</a>
             </div>
         </section>
     </div>
